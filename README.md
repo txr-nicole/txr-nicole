@@ -41,7 +41,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="Mysql" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="80">
     </div>
-    <h2 align="center">IDE's e Softwares:</h2>
+    <h2 align="center">IDE's:</h2>
     <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
